@@ -16,27 +16,24 @@ This ETL process provides a detailed health overview, including various metrics 
 ## Screenshots
 
 ### 1. **Example Data**
-```markdown
+
 ![Data Example](Images/Data example.png)
-```
+
 
 ### 2. **Data Flow Task in SSIS**
-```markdown
+
 ![Data Flow Task Example](Images/data flow task example.png)
-```
 
 ### 3. **Control Flow Task in SSIS**
-```markdown
+
 ![Control Flow Task Example](Images/Control Flow Task example.png)
-```
 
 ### 4. **Power BI Dashboard**
-```markdown
+
 ![Dashboard Screenshot](Images/dashboard.png)
-```
 
 ### 5. **Star Schema for Data Model**
-```markdown
+
 ![Star Schema](Images/star schema.png)
 
 ```
