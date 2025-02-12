@@ -15,16 +15,20 @@ This ETL process provides a detailed health overview, including various metrics 
 
 ## Screenshots
 
-### 1. **Control Flow Task in SSIS**
-![Control Flow Task Example](https://github.com/Majda8/Health_Monitor_ETL_Visualisation/blob/main/Images/Control_Flow_Task_example.png)
 
-### 2. **Example Data**
-![Data Example](https://github.com/Majda8/Health_Monitor_ETL_Visualisation/blob/main/Images/Data_example.png)
+### 1.. **Example Data**
+![Data Example](Images/Data_example.png)
 
-### 3. **Power BI Dashboard**
+### 2. **Data Flow Task in SSIS**
+![Control Flow Task Example](Images/data_flow_task_example.png)
+
+### 3. **Control Flow Task in SSIS**
+![Control Flow Task Example](Images/Control_Flow_Task_example.png)
+
+### 4. **Power BI Dashboard**
 ![Dashboard Screenshot](https://github.com/Majda8/Health_Monitor_ETL_Visualisation/blob/main/Images/Dashboard.png)
 
-### 4. **Star Schema for Data Model**
+### 5. **Star Schema for Data Model**
 ![Star Schema](https://github.com/Majda8/Health_Monitor_ETL_Visualisation/blob/main/Images/Star_Schema.png)
 
 ---
