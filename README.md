@@ -26,7 +26,7 @@ This ETL process provides a detailed health overview, including various metrics 
 ![Control Flow Task Example](Control Flow Task example.png)
 
 ### 4. **Power BI Dashboard**
-![Dashboard Screenshot](Dashboard.png)
+![Dashboard Screenshot](images/dashboard.png)
 
 ### 5. **Star Schema for Data Model**
 ![Star Schema](Star Schema.png)
