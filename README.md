@@ -37,7 +37,7 @@ This ETL process provides a detailed health overview, including various metrics 
 ![Dashboard Screenshot](dashboard.png)
 
 
-```
+---
 
 **Feel free to explore the project structure and images for a better understanding of the process and the final results.**
 
