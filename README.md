@@ -23,7 +23,7 @@ This ETL process provides a detailed health overview, including various metrics 
 ![Control Flow Task Example](data flow task example.png)
 
 ### 3. **Control Flow Task in SSIS**
-![Control Flow Task Example](/Control Flow Task example.png)
+![Control Flow Task Example](Control Flow Task example.png)
 
 ### 4. **Power BI Dashboard**
 ![Dashboard Screenshot](Dashboard.png)
